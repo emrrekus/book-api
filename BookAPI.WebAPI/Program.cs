@@ -1,3 +1,8 @@
+using BookAPI.BusinessLayer.Abstract;
+using BookAPI.BusinessLayer.Concrete;
+using BookAPI.DataAccessLayer.Abstract;
+using BookAPI.DataAccessLayer.EntityFramework;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

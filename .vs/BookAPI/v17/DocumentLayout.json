@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596769CB-3B88-4B95-A394-0886F6DD22D3}|BookAPI.WebAPI\\BookAPI.WebAPI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596769CB-3B88-4B95-A394-0886F6DD22D3}|BookAPI.WebAPI\\BookAPI.WebAPI.csproj|solutionrelative:bookapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:19:33.345Z",
+              "EditorCaption": ""
             }
           ]
         }

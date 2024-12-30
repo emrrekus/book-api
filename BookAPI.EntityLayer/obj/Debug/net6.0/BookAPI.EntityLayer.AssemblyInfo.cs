@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookAPI.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c6fc23609661911648ae087899e2793cdf601a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a1b6425e3b842d8008d41b01ba264308c6e6e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookAPI.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookAPI.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
