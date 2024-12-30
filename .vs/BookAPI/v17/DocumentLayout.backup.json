@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webui\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|solutionrelative:bookapi.webui\\views\\shared\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webui\\views\\default\\deneme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|solutionrelative:bookapi.webui\\views\\default\\deneme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|solutionrelative:bookapi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webui\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|solutionrelative:bookapi.webui\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D050F62-17BE-40A7-86F1-CE36BC12380B}|BookAPI.WebUI\\BookAPI.WebUI.csproj|solutionrelative:bookapi.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596769CB-3B88-4B95-A394-0886F6DD22D3}|BookAPI.WebAPI\\BookAPI.WebAPI.csproj|c:\\users\\pc\\desktop\\myproject\\bookapi\\bookapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596769CB-3B88-4B95-A394-0886F6DD22D3}|BookAPI.WebAPI\\BookAPI.WebAPI.csproj|solutionrelative:bookapi.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deneme.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Default\\Deneme.cshtml",
+              "RelativeDocumentMoniker": "BookAPI.WebUI\\Views\\Default\\Deneme.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Default\\Deneme.cshtml",
+              "RelativeToolTip": "BookAPI.WebUI\\Views\\Default\\Deneme.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T16:33:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "BookAPI.WebUI\\Views\\Shared\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Shared\\_UILayout.cshtml",
+              "RelativeToolTip": "BookAPI.WebUI\\Views\\Shared\\_UILayout.cshtml",
+              "ViewState": "AgIAAA0FAAAAAAAAAAAAAB0FAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T16:32:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "BookAPI.WebUI\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "BookAPI.WebUI\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:30:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookAPI.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "BookAPI.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T16:30:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "BookAPI.WebUI\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebUI\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "BookAPI.WebUI\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T16:21:22.627Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MYProject\\BookAPI\\BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookAPI.WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:19:33.345Z",
+              "EditorCaption": ""
             }
           ]
         }

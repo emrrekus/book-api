@@ -8,6 +8,11 @@ namespace BookAPI.WebUI.Controllers
         {
             return View();
         }
+
+        public IActionResult Deneme()
+        {
+            return View();
+        }
     }
 }
 
