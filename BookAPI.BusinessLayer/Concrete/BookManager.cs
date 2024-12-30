@@ -1,6 +1,7 @@
 using BookAPI.BusinessLayer.Abstract;
 using BookAPI.DataAccessLayer.Abstract;
 using BookAPI.EntityLayer.Concrete;
+using BookAPI.DataAccessLayer.Dtos;
 using System.Linq.Expressions;
 
 namespace BookAPI.BusinessLayer.Concrete
@@ -52,6 +53,16 @@ namespace BookAPI.BusinessLayer.Concrete
         public List<Book> TGetBookWithWriter()
         {
             return _bookDal.GetList();
+        }
+
+        public List<ResultBookDto> TGetLast4Book()
+        {
+            return _bookDal.GetLast4Book();
+        }
+
+        public ResultBookDto TRandomBook()
+        {
+            return _bookDal.RandomBook();
         }
     }
 } 

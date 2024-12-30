@@ -12,6 +12,7 @@ namespace BookAPI.EntityLayer.Concrete
         public string Title { get; set; }
         public string Description { get; set; }
         public string ImageUrl { get; set; }
+        public string Big_ImageUrl { get; set; }
         public decimal Price { get; set; }
         public bool Status { get; set; }
 

@@ -64,5 +64,20 @@ namespace BookAPI.WebAPI.Controllers
             var values = _bookService.TGetBookWithWriter();
             return Ok(values);
         }
+
+
+        [HttpGet("GetLast4Book")]
+        public IActionResult GetLast4Book()
+        {
+            var values = _bookService.TGetLast4Book();
+            return Ok(values);
+        }
+
+        [HttpGet("GetRandomBook")]
+        public IActionResult GetRandomBook()
+        {
+            var value = _bookService.TRandomBook();
+            return Ok(value);
+        }
     }
 } 
