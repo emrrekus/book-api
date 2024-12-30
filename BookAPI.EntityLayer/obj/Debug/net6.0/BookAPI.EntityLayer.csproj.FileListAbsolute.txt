@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\bin\Debug\net6.0\BookAPI.EntityLayer.deps.json
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\bin\Debug\net6.0\BookAPI.EntityLayer.runtimeconfig.json
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\bin\Debug\net6.0\BookAPI.EntityLayer.dll
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\bin\Debug\net6.0\BookAPI.EntityLayer.pdb
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.AssemblyInfo.cs
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.sourcelink.json
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.dll
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\refint\BookAPI.EntityLayer.dll
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.pdb
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\BookAPI.EntityLayer.genruntimeconfig.cache
+C:\Users\pc\Desktop\MYProject\BookAPI\BookAPI.EntityLayer\obj\Debug\net6.0\ref\BookAPI.EntityLayer.dll

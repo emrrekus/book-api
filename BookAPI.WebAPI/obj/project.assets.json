@@ -835,7 +835,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "BookAPI.EntityLayer": "1.0.0"
+          "BookAPI.EntityLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.36"
         },
         "compile": {
           "bin/placeholder/BookAPI.DataAccessLayer.dll": {}

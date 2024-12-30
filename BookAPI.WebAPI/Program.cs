@@ -7,6 +7,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Service registrations
+builder.Services.AddScoped<IBookService, BookManager>();
+builder.Services.AddScoped<ICategoryService, CategoryManager>();
+builder.Services.AddScoped<IWriterService, WriterManager>();
+builder.Services.AddScoped<IFeatureService, FeatureManager>();
+
+// Dal registrations
+builder.Services.AddScoped<IBookDal, EfBookDal>();
+builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
+builder.Services.AddScoped<IWriterDal, EfWriterDal>();
+builder.Services.AddScoped<IFeatureDal, EfFeatureDal>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

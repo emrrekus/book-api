@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookAPI.EntityLayer",
+    "\\BookAPI.EntityLayer\\bin",
+    "\\BookAPI.EntityLayer\\Concrete",
+    "\\BookAPI.WebAPI"
+  ],
+  "SelectedNode": "\\BookAPI.DataAccessLayer",
+  "PreviewInSolutionExplorer": false
+}
