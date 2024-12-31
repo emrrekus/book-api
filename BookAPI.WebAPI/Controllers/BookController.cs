@@ -79,5 +79,12 @@ namespace BookAPI.WebAPI.Controllers
             var value = _bookService.TRandomBook();
             return Ok(value);
         }
+
+        [HttpGet("GetBookByCategory")]
+        public IActionResult GetBookByCategory()
+        {
+            var value = _bookService.TGetBookByCategory();
+            return Ok(value);
+        }
     }
 } 

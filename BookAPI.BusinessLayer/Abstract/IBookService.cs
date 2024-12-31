@@ -9,5 +9,7 @@ namespace BookAPI.BusinessLayer.Abstract
         List<ResultBookDto> TGetLast4Book();
 
         ResultBookDto TRandomBook();
+
+        List<ResultBookDto> TGetBookByCategory();
     }
 } 

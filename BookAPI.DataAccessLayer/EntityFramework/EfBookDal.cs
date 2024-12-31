@@ -3,6 +3,7 @@ using BookAPI.DataAccessLayer.Context;
 using BookAPI.DataAccessLayer.Repository;
 using BookAPI.EntityLayer.Concrete;
 using BookAPI.DataAccessLayer.Dtos;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookAPI.DataAccessLayer.EntityFramework
 {
@@ -12,6 +13,22 @@ namespace BookAPI.DataAccessLayer.EntityFramework
         public EfBookDal(BookContext context) : base(context)
         {
             _context = context;
+        }
+
+        public List<ResultBookDto> GetBookByCategory()
+        {
+            return _context.Books
+                .Include(x => x.Category)
+                .Include(x => x.Writer)
+                .Select(x => new ResultBookDto
+                {
+                    Title = x.Title,
+                    Author = x.Writer.Name,
+                    Price = x.Price,
+                    ImageUrl = x.ImageUrl,
+                    Description = x.Description,
+                    CategoryName = x.Category.CategoryName
+                }).ToList();
         }
 
         public List<ResultBookDto> GetLast4Book()

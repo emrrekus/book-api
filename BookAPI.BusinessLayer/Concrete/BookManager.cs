@@ -64,5 +64,10 @@ namespace BookAPI.BusinessLayer.Concrete
         {
             return _bookDal.RandomBook();
         }
+
+        public List<ResultBookDto> TGetBookByCategory()
+        {
+            return _bookDal.GetBookByCategory();
+        }
     }
 } 

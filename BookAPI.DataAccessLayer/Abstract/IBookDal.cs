@@ -8,5 +8,7 @@ namespace BookAPI.DataAccessLayer.Abstract
         List<ResultBookDto> GetLast4Book();
 
         ResultBookDto RandomBook();
+
+        List<ResultBookDto> GetBookByCategory();
     }
 } 
