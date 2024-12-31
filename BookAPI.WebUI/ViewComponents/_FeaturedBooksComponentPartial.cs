@@ -7,10 +7,10 @@ namespace BookAPI.WebUI.ViewComponents
     public class _FeaturedBooksComponentPartial : ViewComponent
     {
 		private readonly IHttpClientFactory _httpClientFactory;
-public _FeaturedBooksComponentPartial(IHttpClientFactory httpClientFactory)
-{
-	_httpClientFactory = httpClientFactory;
-}
+		public _FeaturedBooksComponentPartial(IHttpClientFactory httpClientFactory)
+		{
+			_httpClientFactory = httpClientFactory;
+		}
 
         public async Task<IViewComponentResult> InvokeAsync()
         {
